@@ -1,0 +1,122 @@
+/* Medium devices (tablets, 768px and up) */
+@media screen and (max-width: 768px) {
+    .selamat {
+        font-size: 35px;
+    }
+
+    .wayharong {
+        font-size: 55px;
+    }
+
+    .kab {
+        font-size: 24px;
+    }
+
+    .heading {
+        font-size: 25px;
+    }
+
+    .subheading {
+        font-size: 20px;
+    }
+
+    .teks-tentang {
+        margin-top: 50px;
+    }
+
+    .img-sejarah {
+        margin-top: 20px;
+        order: 2;
+    }
+
+    .tabel-sejarah {
+        margin-top: 20px;
+    }
+
+    #batas .bg h1 {
+        font-size: 30px;
+    }
+
+
+    .wrap-wil {
+        margin-top: 20px;
+    }
+
+}
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media screen and (max-width: 576px) {
+
+    .navbar .menu a {
+        font-size: 12px;
+        line-height: 24px;
+    }
+
+    .desaway {
+        font-size: 18px;
+        line-height: 23px;
+        ;
+    }
+
+    .kabupaten {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .selamat {
+        font-size: 20px;
+    }
+
+    .wayharong {
+        font-size: 35px;
+        line-height: 45px;
+    }
+
+    .kab {
+        font-size: 17px;
+    }
+
+    .heading {
+        font-size: 22px;
+    }
+
+    .subheading {
+        font-size: 16px;
+    }
+
+    .teks-tentang {
+        margin-top: 50px;
+    }
+
+    .img-sejarah {
+        margin-top: 20px;
+        order: 2;
+    }
+
+    .tabel-sejarah {
+        margin-top: 20px;
+    }
+
+    #batas .bg h1 {
+        font-size: 30px;
+    }
+
+    #batas .bg {
+        height: 150px;
+    }
+
+    #batas .bg img {
+        height: 100%;
+    }
+
+    .wrap-wil {
+        margin-top: 20px;
+    }
+
+    .ds-nama {
+        font-size: 25px;
+        line-height: 41px;
+    }
+
+}
